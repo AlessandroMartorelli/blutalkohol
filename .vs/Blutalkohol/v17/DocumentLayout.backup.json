@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\development\\C#\\Blutalkohol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\development\\C#\\Blutalkohol\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C99140F-8B51-4AB5-A284-DE476A9FC874}|Blutalkohol.csproj|c:\\development\\c#\\blutalkohol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C99140F-8B51-4AB5-A284-DE476A9FC874}|Blutalkohol.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\development\\C#\\Blutalkohol\\CLSBlutalkohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CLSBlutalkohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C99140F-8B51-4AB5-A284-DE476A9FC874}|Blutalkohol.csproj|c:\\development\\c#\\blutalkohol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C99140F-8B51-4AB5-A284-DE476A9FC874}|Blutalkohol.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\development\\C#\\Blutalkohol\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7C99140F-8B51-4AB5-A284-DE476A9FC874}|Blutalkohol.csproj|c:\\development\\c#\\blutalkohol\\clsblutalkohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C99140F-8B51-4AB5-A284-DE476A9FC874}|Blutalkohol.csproj|solutionrelative:clsblutalkohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CLSBlutalkohol.cs",
               "DocumentMoniker": "C:\\development\\C#\\Blutalkohol\\CLSBlutalkohol.cs",
               "RelativeDocumentMoniker": "CLSBlutalkohol.cs",
@@ -34,18 +34,20 @@
               "RelativeToolTip": "CLSBlutalkohol.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:37:38.698Z"
+              "WhenOpened": "2024-09-17T11:37:38.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\development\\C#\\Blutalkohol\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\development\\C#\\Blutalkohol\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-17T11:36:31.846Z"
+              "WhenOpened": "2024-09-17T11:36:31.846Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +57,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\development\\C#\\Blutalkohol\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowCMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T11:36:30.911Z",
               "EditorCaption": ""
