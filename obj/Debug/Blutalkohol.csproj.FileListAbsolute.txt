@@ -1,0 +1,15 @@
+C:\development\C#\Blutalkohol\bin\Debug\Blutalkohol.exe.config
+C:\development\C#\Blutalkohol\bin\Debug\Blutalkohol.exe
+C:\development\C#\Blutalkohol\bin\Debug\Blutalkohol.pdb
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol.csproj.AssemblyReference.cache
+C:\development\C#\Blutalkohol\obj\Debug\MainWindow.g.cs
+C:\development\C#\Blutalkohol\obj\Debug\App.g.cs
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol_MarkupCompile.cache
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol_MarkupCompile.lref
+C:\development\C#\Blutalkohol\obj\Debug\MainWindow.baml
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol.g.resources
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol.Properties.Resources.resources
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol.csproj.GenerateResource.cache
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol.csproj.CoreCompileInputs.cache
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol.exe
+C:\development\C#\Blutalkohol\obj\Debug\Blutalkohol.pdb
